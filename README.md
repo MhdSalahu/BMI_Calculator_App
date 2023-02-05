@@ -12,8 +12,8 @@ To use the BMI Calculator, simply enter your weight in kilograms (kg) and height
 
 If you prefer to use pounds (lb) and inches (in), you can convert them to kilograms and meters using the following conversions:
 
-weight (kg) = weight (lb) / 2.20462
-height (m) = height (in) / 39.3701
+    weight (kg) = weight (lb) / 2.20462
+    height (m) = height (in) / 39.3701
 
 
 ## Interpretation of Results
