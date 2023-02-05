@@ -16,7 +16,7 @@ weight (kg) = weight (lb) / 2.20462
 height (m) = height (in) / 39.3701
 
 
-##Interpretation of Results
+## Interpretation of Results
 
 The resulting BMI value can be interpreted using the following categories:
 
@@ -29,12 +29,12 @@ Obese: BMI of 30 or higher
 It is important to note that the BMI calculation is just a rough estimate and should not be used as a diagnostic tool. 
 Other factors such as muscle mass, body composition, and overall health can affect the interpretation of BMI results.
 
-##Conclusion
+## Conclusion
 
 The BMI Calculator is a simple tool that can provide a general idea of a person's body weight status. 
 However, it should not be used as a diagnostic tool and a healthcare professional should be consulted for a proper evaluation of body weight.
 
-#To run 
+# To run 
 
 To run a the Flutter project, you will need to follow these steps:
 
