@@ -47,13 +47,13 @@ To run a the Flutter project, you will need to follow these steps:
        
           git clone https://github.com/<username>/<repository>.git
 
-   Replace '<username>' with the *username of the repository owner*, and '<repository>' with the *name of the repository*.
+   Replace `<username>` with the *username of the repository owner*, and '<repository>' with the *name of the repository*.
 
 3. Navigate to the project directory: After cloning the repository, navigate to the project directory by running the following command:
         
         cd <repository>
    
-    Replace '<repository>' with the *name of the repository*.
+    Replace `<repository>` with the *name of the repository*.
 
 4. Install dependencies: Run the following command to install the dependencies specified in the pubspec.yaml file:
 
