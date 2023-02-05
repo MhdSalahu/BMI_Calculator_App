@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI_Calculator
 
 The Body Mass Index (BMI) is a simple calculation used to determine if a person is underweight, 
 normal weight, overweight, or obese based on their height and weight. 
